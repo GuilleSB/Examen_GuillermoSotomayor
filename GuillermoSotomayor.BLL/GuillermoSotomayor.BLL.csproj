@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GuillermoSotomayor.DAL\GuillermoSotomayor.DAL.csproj" />
+    <ProjectReference Include="..\GuillermoSotomayor.ETL\GuillermoSotomayor.ETL.csproj" />
+  </ItemGroup>
+
+</Project>
